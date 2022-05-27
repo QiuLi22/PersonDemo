@@ -1,0 +1,15 @@
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\bin\Debug\net6.0\PersonDemo.exe
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\bin\Debug\net6.0\PersonDemo.deps.json
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\bin\Debug\net6.0\PersonDemo.runtimeconfig.json
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\bin\Debug\net6.0\PersonDemo.dll
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\bin\Debug\net6.0\PersonDemo.pdb
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\obj\Debug\net6.0\PersonDemo.csproj.AssemblyReference.cache
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\obj\Debug\net6.0\PersonDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\obj\Debug\net6.0\PersonDemo.AssemblyInfoInputs.cache
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\obj\Debug\net6.0\PersonDemo.AssemblyInfo.cs
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\obj\Debug\net6.0\PersonDemo.csproj.CoreCompileInputs.cache
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\obj\Debug\net6.0\PersonDemo.dll
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\obj\Debug\net6.0\refint\PersonDemo.dll
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\obj\Debug\net6.0\PersonDemo.pdb
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\obj\Debug\net6.0\PersonDemo.genruntimeconfig.cache
+C:\Users\qiuli\OneDrive\Desktop\CIS123\Module7\PersonDemo\PersonDemo\obj\Debug\net6.0\ref\PersonDemo.dll
